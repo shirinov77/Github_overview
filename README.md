@@ -31,4 +31,4 @@ Bu shablonlar yordamida siz:
 ## 📬 Aloqa
 Agar savollar yoki takliflaringiz bo‘lsa:  
 
-📩 **Telegram:** [t.me/Shirinov_m](https://t.me/Shirinov_m)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Shirinov_m)
