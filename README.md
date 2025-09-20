@@ -30,5 +30,8 @@ Bu shablonlar yordamida siz:
 
 ## 📬 Aloqa
 Agar savollar yoki takliflaringiz bo‘lsa:  
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Shirinov_m)
+<div align="center">
+  <a href="https://t.me/Shirinov_m" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" width="60" alt="Telegram"/>
+  </a>
+</div>
