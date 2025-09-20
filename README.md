@@ -30,9 +30,11 @@ Bu shablonlar yordamida siz:
 
 ## 📬 Aloqa
 Agar savollar yoki takliflaringiz bo‘lsa:  
-<div align="center"><a href="https://t.me/Shirnov_m">
-  <img src="https://img.icons8.com/color/96/000000/telegram-app.png" alt="telegram"/>
-</a>
-
-  <a href="https://www.instagram.com/_shrnv_7"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<div align="center">
+  <a href="https://t.me/Shirnov_m">
+    <img src="https://img.icons8.com/color/96/48/telegram-app.png" alt="telegram"/>
+  </a>
+  <a href="https://www.instagram.com/_shrnv_7">
+    <img src="https://img.icons8.com/color/96/48/instagram-new.png" alt="instagram"/>
+  </a>
 </div>
